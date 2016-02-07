@@ -1,0 +1,6 @@
+wheel==0.26.0
+./wheels/PyICU-1.9.2-cp27-none-linux_x86_64.whl
+numpy==1.6.1
+polyglot==15.10.3
+tweepy==3.5.0
+psycopg2==2.6.1
